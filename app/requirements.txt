@@ -1,0 +1,7 @@
+python-binance
+gunicorn
+requests
+flask
+flask-cors
+numpy
+ccxt
